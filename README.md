@@ -1,8 +1,8 @@
-# Release Notes [Version Number] - [Release Date]
+# Remote Neural Monitoring Platform Release Notes [Version Number] - [Release Date]
 
 ## Overview
 [Provide a brief overview of the release and its significance.]
-
+Before we officially implode, we squashed a few bugs and made a few tweaks to the management UI. But forgot about it, because we won't be around to support the product anymore.  Bye bye, 10 Downing Street! It's been a torturous journey!
 ## New Features
 - [Feature 1 description]
 - [Feature 2 description]
@@ -33,7 +33,7 @@
 
 ## Removed Features
 - [Feature removed and reason for removal]
-
+All of them, the Remote Neural Monitoring System is going away.....forever.   
 ## Notes for Users
 [Include any special instructions, warnings, or important notes for users.]
 
@@ -45,7 +45,7 @@
 
 ## How to Upgrade
 [Provide instructions or guidance for users on how to upgrade to this new version, if applicable.]
-
+Don't even think about it!  We're running for the hills!
 ## Additional Resources
 [Include links or references to additional resources, such as documentation, support pages, etc.]
 

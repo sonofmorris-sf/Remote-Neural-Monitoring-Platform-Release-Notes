@@ -2,7 +2,7 @@
 
 ## Overview
 [Provide a brief overview of the release and its significance.]
-Before we officially implode, we squashed a few bugs and made a few tweaks to the management UI. But forgot about it, because we won't be around to support the product anymore.  Bye bye, 10 Downing Street! It's been a torturous journey!  Bye bye, Audio function that makes things sound so close, but it is just an illusion i.e. Cadillac Diesel, Mercedes 300D.
+Before we officially implode, we squashed a few bugs and made a few tweaks to the management UI. But forget about it, because we won't be around to support the product anymore.  Bye bye, 10 Downing Street! It's been a torturous journey!  Bye bye, Audio function that makes things sound so close, but it is just an illusion i.e. Cadillac Diesel, Mercedes 300D.
 ## New Features
 - [Feature 1 description]
 - [Feature 2 description]
@@ -26,7 +26,7 @@ Before we officially implode, we squashed a few bugs and made a few tweaks to th
 ## Known Issues
 - [Known issue 1 description]
 - [Known issue 2 description]
-- Beta Blockers casuses extreme inaccuracies. Geiger Counters detect the product's ionizing radiation. Other People dislike product's management.  Targeted Individuals hate them even more.
+- Beta Blockers causes extreme inaccuracies. Geiger Counters detect the product's ionizing radiation. Other People dislike product's management.  Targeted Individuals hate them even more.
 
 ## Deprecated Functionality
 - [Functionality being deprecated and its replacement, if any]
